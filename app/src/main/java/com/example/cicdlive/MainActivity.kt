@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+// how many days
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
